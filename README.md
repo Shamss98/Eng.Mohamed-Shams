@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edrees</h1>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Vue.js + Laravel SaaS platforms**
